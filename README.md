@@ -24,7 +24,7 @@ Your objective is to finish out the starter code attached to solve a basic word 
 ### Practice Word Search
 You will see an attached board to practice with.  The words are the following:
  - Binary (vert normal)
- - Computers (diagonal downToRight)
+ - Computer (diagonal downToRight)
  - Hexadecimal (horizontal backwards)
  - Bander (horizontal normal)
  - Powershell (diagonal upToLeft)
